@@ -1,0 +1,11 @@
+
+# Loại bỏ file biên dịch Java
+*.class
+
+# Loại bỏ thư mục build/output của IDE
+bin/
+build/
+target/
+.idea/
+.settings/
+.vscode/
